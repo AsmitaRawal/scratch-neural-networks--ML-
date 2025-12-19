@@ -40,12 +40,11 @@ Each network is implemented in a **10-day incremental style**, perfect for **dai
 
 ## Outputs
 ```text
-Input: [0, 0], Output: [0.52]
-Input: [0, 1], Output: [0.48]
-Input: [1, 0], Output: [0.49]
-Input: [1, 1], Output: [0.51]
-Input: [1, 0], Output: [0.71]
-Input: [1, 1], Output: [0.78]
+Predictions after training
+Input: [0, 0], Output: [0.019434699622773954]
+Input: [0, 1], Output: [0.9833341290947769]
+Input: [1, 0], Output: [0.983174959517643]
+Input: [1, 1], Output: [0.017416279474971152]
 ```
 **Training Plot** :
 
