@@ -10,12 +10,13 @@ This repository contains **from-scratch implementations of three neural network 
 
 ## Project Structure
 scratch-neural-networks/
+```
 ├── ann_scratch.py # ANN scratch implementation (XOR)
 ├── cnn_scratch.py # CNN scratch implementation
 ├── rnn_scratch.py # RNN scratch implementation
 ├── README.md # Project documentation
 └── .gitignore
-
+```
 ---
 
 ## 10-Day Incremental Plan
@@ -36,6 +37,20 @@ Each network is implemented in a **10-day incremental style**, perfect for **dai
 | 8   | Visualization of training loss |
 | 9   | Refactor code for clarity |
 | 10  | Documentation & final README |
+
+## Outputs
+```text
+Input: [0, 0], Output: [0.52]
+Input: [0, 1], Output: [0.48]
+Input: [1, 0], Output: [0.49]
+Input: [1, 1], Output: [0.51]
+Input: [1, 0], Output: [0.71]
+Input: [1, 1], Output: [0.78]
+```
+**Training Plot** :
+
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/1cdf5ca8-f8fa-4d45-b7bc-cf751c1b63fd" />
+
 
 ### CNN
 
@@ -69,11 +84,4 @@ Each network is implemented in a **10-day incremental style**, perfect for **dai
 
 ---
 
-## Outputs
-```text
-Input: [0, 0], Output: [0.52]
-Input: [0, 1], Output: [0.48]
-Input: [1, 0], Output: [0.49]
-Input: [1, 1], Output: [0.51]
-Input: [1, 0], Output: [0.71]
-Input: [1, 1], Output: [0.78]
+
