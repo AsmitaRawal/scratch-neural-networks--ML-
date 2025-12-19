@@ -19,9 +19,9 @@ scratch-neural-networks/
 ```
 ---
 
-## 10-Day Incremental Plan
+## Daily Incremental Plan
 
-Each network is implemented in a **10-day incremental style**, perfect for **daily commits**.
+Each network is implemented in a **Daily incremental style**, perfect for **daily commits**.
 
 ### ANN (XOR Example)
 
