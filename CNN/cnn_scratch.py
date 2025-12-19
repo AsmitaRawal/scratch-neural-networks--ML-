@@ -1,3 +1,5 @@
+#Day1
+
 import random
 
 # Example input image 5x5
