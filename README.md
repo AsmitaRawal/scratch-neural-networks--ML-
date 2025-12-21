@@ -100,7 +100,7 @@ Epoch 100/100, Loss: 1.3933
 ```
 **Training Plot** :
 
-<img width="640" height="480" alt="image" src="C:\Users\Asmita\Documents\GitHub\scratch-neural-networks--ML-\CNN\images\cnn_forward_pass.png" />
+<img width="640" height="480" alt="image" src=
 
 
 ### RNN
@@ -139,7 +139,7 @@ Predictions after training:
 ```
 **Training Plot** :
 
-<img width="640" height="480" alt="image" src="C:\Users\Asmita\Documents\GitHub\scratch-neural-networks--ML-\RNN\images\rnn_training_loss.png" />
+<img width="640" height="480" alt="image" src="https://github.com/AsmitaRawal/scratch-neural-networks--ML-/blob/main/RNN/images/rnn_training_loss.png?raw=true" />
 
 
 
