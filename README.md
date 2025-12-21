@@ -1,3 +1,5 @@
+# Assignment (Roll no : 06)
+
 # Scratch Implementation of Neural Networks (ANN, CNN, RNN)
 
 This repository contains **from-scratch implementations of three neural network types** using only **Python built-ins** and optionally `matplotlib` for visualization:
@@ -100,7 +102,7 @@ Epoch 100/100, Loss: 1.3933
 ```
 **Training Plot** :
 
-<img width="640" height="480" alt="image" src=
+<img width="640" height="480" alt="image" src="https://github.com/AsmitaRawal/scratch-neural-networks--ML-/blob/main/CNN/images/cnn_forward_pass.png?raw=true" />
 
 
 ### RNN
